@@ -8,7 +8,9 @@ I'm a software developer passionate about open-source and building innovative so
 - **Tools:** Git, Docker, Kubernetes
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aluxey&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aluxey&show_icons=true&theme=radical)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aluxey&layout=compact&theme=radical)
+
 
 ## 🌟 Projects
 - [Financial Dashboard](https://github.com/aluxey/finance_dashboard): I decided to start to develop my own financial dashboard.
@@ -16,7 +18,7 @@ I'm a software developer passionate about open-source and building innovative so
 
 ## 📫 Contact
 - **Email:** aurelien.luxeyy@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aurelien-luxey-018841250/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aurelien-luxey-018841250/)
 - **Website** [aurelien.luxey](https://aurelien-luxey.netlify.app/)
 
 Thanks for visiting!
