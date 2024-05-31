@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Aurélien LUXEY] 👋
 
-<!--
-**aluxey/aluxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about open-source and building innovative solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, Java, C#, Go
+- **Frameworks:** React, Django, Spring Boot
+- **Tools:** Git, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aluxey&show_icons=true&theme=radical)
+
+## 🌟 Projects
+- [Financial Dashboard](https://github.com/aluxey/finance_dashboard): I decided to start to develop my own financial dashboard.
+- [Portfolio](https://github.com/aluxey/Portfolio-AurelienLUXEY): I did my own portfolio, i'm currently searching a internship and a portfolio is a must have to be able to present yourself and your work.
+
+## 📫 Contact
+- **Email:** aurelien.luxeyy@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aurelien-luxey-018841250/)
+- **Website** [aurelien.luxey](https://aurelien-luxey.netlify.app/)
+
+Thanks for visiting!
