@@ -30,4 +30,5 @@ I love exploring new technologies and contributing to exciting projects whenever
 - **LinkedIn:** [linkedin.com/in/aurelien-luxey-018841250/](https://www.linkedin.com/in/aurelien-luxey-018841250/)  
 - **Website:** [aurelien-luxey.netlify.app](https://aurelien-luxey.netlify.app/)
 
+[![github-views](https://komarev.com/ghpvc/?username=aluxey&color=blue)](https://github.com/aluxey)
 Thank you for visiting my profile—let’s create something amazing together!
