@@ -5,19 +5,69 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me - <img src="https://komarev.com/ghpvc/?username=aluxey&style=plastic&color=blue" alt="Profile Views" />
 
 - 💼 **Software Engineer @ TimeOne** – building scalable APIs & microservices  
 - 🔍 Passionate about Javascript, PHP and open-source projetc with clean architecture  
-- 📚 Currently exploring: **Kubernetes** & **DevOps**  
+- 📚 Currently exploring: **Kubernetes** & **DevOps**
+  
+
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,ts,js,react,python,nodejs,symfony,tailwind,docker,kubernetes,git,linux,mysql,mongodb" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" colspan="5"><strong>🧠 Back-end</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=go" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=symfony" height="40" /></td>
+  </tr>
+
+  <tr><td colspan="5"><br/></td></tr>
+
+  <tr>
+    <td align="center" colspan="6"><strong>🌐 Web</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=ts" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></td>
+  </tr>
+
+  <tr><td colspan="7"><br/></td></tr>
+
+  <tr>
+    <td align="center" colspan="4"><strong>⚙️ DevOps</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" height="40" /></td>
+  </tr>
+
+  <tr><td colspan="4"><br/></td></tr>
+
+  <tr>
+    <td align="center" colspan="3"><strong>🗄️ Databases</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" height="40" /></td>
+  </tr>
+</table>
+
 
 ---
 
@@ -55,7 +105,3 @@
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
-
----
-
-
