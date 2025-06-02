@@ -15,59 +15,76 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Full Stack Tech Stack – 2025
 
 <table align="center">
+  <!-- FRONTEND -->
   <tr>
-    <td align="center" colspan="5"><strong>🧠 Back-end</strong></td>
+    <td align="center" colspan="7"><strong>🎨 Front-end</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=go" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=php" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=python" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=symfony" height="40" /></td>
-  </tr>
-
-  <tr><td colspan="5"><br/></td></tr>
-
-  <tr>
-    <td align="center" colspan="6"><strong>🌐 Web</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=ts" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js" height="40" /></td>
     <td><img src="https://skillicons.dev/icons?i=react" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></td>
     <td><img src="https://skillicons.dev/icons?i=html" height="40" /></td>
     <td><img src="https://skillicons.dev/icons?i=css" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></td>
   </tr>
 
   <tr><td colspan="7"><br/></td></tr>
 
+  <!-- BACKEND -->
   <tr>
-    <td align="center" colspan="4"><strong>⚙️ DevOps</strong></td>
+    <td align="center" colspan="6"><strong>🧠 Back-end</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=docker" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=linux" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=go" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" height="40" /></td>
   </tr>
 
-  <tr><td colspan="4"><br/></td></tr>
+  <tr><td colspan="6"><br/></td></tr>
 
+  <!-- DATABASES -->
   <tr>
     <td align="center" colspan="3"><strong>🗄️ Databases</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="40" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></td>
     <td><img src="https://skillicons.dev/icons?i=postgres" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="40" /></td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <!-- DEVOPS & CLOUD -->
+  <tr>
+    <td align="center" colspan="6"><strong>⚙️ DevOps & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" height="40" /></td>
+  </tr>
+
+  <tr><td colspan="6"><br/></td></tr>
+
+  <!-- TESTING & QUALITY -->
+  <tr>
+    <td align="center" colspan="5"><strong>🧪 Tests & Code Quality</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=jest" height="40" /></td>
+    <td><img src="https://vitest.dev/logo.svg" height="40" /></td>
+    <td><img src="https://playwright.dev/img/playwright-logo.svg" height="40" /></td>
   </tr>
 </table>
-
 
 ---
 
