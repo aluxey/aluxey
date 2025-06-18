@@ -1,0 +1,123 @@
+{
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "left",
+  "workbench.statusBar.visible": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.productIconTheme": "icons-carbon",
+  "editor.fontLigatures": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorWidth": 2,
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 120,
+  "editor.renderWhitespace": "boundary",
+  "editor.renderControlCharacters": false,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.cursorBlinking": "expand", // Feels smoother and more organic
+  "editor.cursorSurroundingLines": 3, // Keeps context while moving cursor
+  "editor.scrollBeyondLastLine": true, // Adds nice space at the end
+  "editor.fontWeight": "500", // Slightly bolder for clarity
+  "editor.renderLineHighlight": "all", // Highlights full line for better focus
+  "editor.guides.indentation": true,
+  "editor.guides.highlightActiveIndentation": true,
+  "editor.scrollBeyondLastColumn": 5,
+  "editor.stickyScroll.enabled": true, // Keep function/class headers in view while scrolling
+  "editor.occurrencesHighlight": "multiFile",
+  "editor.selectionHighlight": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.scrollback": 10000, // Makes scrolling smooth in long logs
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
+  "window.commandCenter": false,
+  "window.restoreWindows": "preserve",
+  "window.dialogStyle": "custom",
+  "window.title": "${rootName}",
+  "window.newWindowProfile": "Default",
+  "window.menuBarVisibility": "compact",
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "telemetry.telemetryLevel": "off",
+  "javascript.suggest.autoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  // ==========  Extension settings ==========
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "prettier.enable": false,
+  "prettier.printWidth": 200,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "errorLens.excludeBySource": [
+    "cSpell",
+    "Grammarly",
+    "eslint"
+  ],
+  "css.lint.hexColorLength": "ignore",
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.menus": {
+    "editor": {
+      "blame": false,
+      "clipboard": true,
+      "compare": true,
+      "history": false,
+      "remote": false
+    },
+    "editorGroup": {
+      "blame": true,
+      "compare": false
+    },
+    "editorTab": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
+    },
+    "explorer": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
+    },
+    "scm": {
+      "authors": true
+    },
+    "scmGroup": {
+      "compare": true,
+      "openClose": true,
+      "stash": true
+    },
+    "scmGroupInline": {
+      "stash": true
+    },
+    "scmItem": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": false,
+      "stash": true
+    }
+  },
+}
