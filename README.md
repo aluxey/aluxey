@@ -1,121 +1,112 @@
-<!-- HEADER -->
-<h1 align="center"> 
-  Hey 👋, I'm <span style="color:#3B82F6;">Aurélien LUXEY</span>  
-</h1>
-<h3 align="center">💻 Full Stack Developer | DevOps Enthusiast | Clean Code Advocate</h3>
+<!-- Header -->
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aurélien%20LUXEY"
+    />
+  </a>
+</div>
 
+
+
+<!-- Master Head -->
+<a href="https://github.com/aluxey">
+  <img src="https://github.com/aluxey/aluxey/blob/main/dev-coding.gif" alt="Coding GIF" style="width:100%; height:auto"/>
+</a>
+
+
+<!-- Greeting -->
+<h2 align="center">👋 Hi, I'm Aurélien Luxey</h2>
+
+<h4 align="center">🚀 Full Stack Developer | Software & Information Systems Student @Efrei | DevOps Enthusiast</h4>
+
+
+<!-- Profile Badges -->
+<div align="center">
+<a href="https://github.com/aluxey" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=aluxey&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+</a>
+
+<a href="https://github.com/aluxey?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total Stars"
+       src="https://img.shields.io/github/stars/aluxey?style=for-the-badge&label=Stars&color=ff9800&logo=github" /></a>
+
+<a href="https://github.com/aluxey?tab=followers" target="_blank">
+  <img alt="Followers" title="Followers"
+       src="https://img.shields.io/github/followers/aluxey?style=for-the-badge&label=Followers&color=0A66C2&logo=github" />
+</a>
+</div>
+
+
+<!-- About Me -->
+<img align="right" alt="coding-gif" width="400" src="https://github.com/aluxey/aluxey/blob/main/transparent_dev.gif">
+
+<h3>💫 About Me</h3>
+<ul>
+  <li>🎓 Student at <b>Efrei</b>, Software & Information Systems track</li>
+  <li>💼 Currently working as <b>Full Stack Developer Apprentice</b> @ <i>TimeOne Isoskele</i></li>
+  <li>💻 Strong interests: <b>Web Development, DevOps, Cloud, Software Architecture</b></li>
+  <li>⚡ Past experiences at <i>ManoMano (Dev Portal, DevOps, Go, TS, Kubernetes, AWS)</i> and <i>ENSEIRB (Flutter, Agile)</i></li>
+  <li>🏋️ On a personal journey of <b>fitness & weight loss</b> 💪</li>
+</ul>
+
+
+<h3>🧲 Connect me :</h3>
+<a href="mailto:aurelien.luxeyy@gmail.com">
+  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  
+  <a href="https://www.linkedin.com/in/aurelien-luxey-018841250/" target="_blank">
+    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
+    
+  <a href="https://aurelien-luxey.netlify.app/" target="_blank">
+    <img width="60px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="Portfolio Badge"></a>
+
+
+<!-- Github Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=aluxey&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=aluxey&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+
+<!-- Languages & Tools -->
+<h3 align="center">🛠 Languages & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,symfony,java,python,c,cpp,cs,dotnet" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,git,github,docker,kubernetes,aws,linux,bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,figma" />
+</div>
+
+
+<!-- Featured Projects -->
+<h3 align="center">⭐️ Featured Projects</h3>
+<div align="center">
+  <a href="https://github.com/aluxey/E-Commerce">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=aluxey&repo=E-Commerce&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aluxey/Portfolio-AurelienLUXEY">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=aluxey&repo=Portfolio-AurelienLUXEY&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aluxey/Dotfiles">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=aluxey&repo=Dotfiles&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aluxey/windows-clean-update">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=aluxey&repo=windows-clean-update&theme=tokyonight" />
+  </a>
+</div>
+
+
+<!-- Support -->
+<h3 align="center">☕ Support Me</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aluxey&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/aluxey?label=Followers&style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/aluxey?affiliations=OWNER&style=flat-square" alt="stars"/>
+  <a href="https://www.buymeacoffee.com/aluxey">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" />
+  </a>
 </p>
 
----
 
-## 👨‍💻 About Me
+<!-- Footer -->
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
-- 💼 Software Engineer @ **TimeOne** – building scalable APIs & microservices  
-- ⚡ Passionate about **JavaScript / PHP / DevOps** & clean architectures  
-- 📚 Currently diving into **Kubernetes, CI/CD pipelines & Cloud-native apps**  
-- 🎯 Goal: Become a strong **Full Stack Architect** mastering software scalability & best practices  
-- 🌍 Based in Bordeaux, 🇫🇷  
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <!-- FRONTEND -->
-  <tr>
-    <td align="center" colspan="5"><strong>🎨 Frontend</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React ⚡</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>TailwindCSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br/>HTML / CSS</td>
-  </tr>
-
-  <!-- BACKEND -->
-  <tr>
-    <td align="center" colspan="5"><strong>🧠 Backend</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js (Express/Nest)</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" height="40"/><br/>Go</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="40"/><br/>GraphQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="40"/><br/>Firebase</td>
-    <td></td>
-  </tr>
-
-  <!-- DATABASE -->
-  <tr>
-    <td align="center" colspan="5"><strong>🗄️ Databases</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="40"/><br/>PostgreSQL 🚀</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br/>MySQL</td>
-    <td></td><td></td>
-  </tr>
-
-  <!-- DEVOPS -->
-  <tr>
-    <td align="center" colspan="5"><strong>⚙️ DevOps & Cloud</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="40"/><br/>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br/>Git / GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="40"/><br/>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>Linux</td>
-  </tr>
-
-  <!-- TESTING -->
-  <tr>
-    <td align="center" colspan="5"><strong>🧪 Testing & Quality</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jest" height="40"/><br/>Jest</td>
-    <td align="center"><img src="https://vitest.dev/logo.svg" height="40"/><br/>Vitest</td>
-    <td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" height="40"/><br/>Playwright</td>
-    <td></td><td></td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| [**E-Commerce**](https://github.com/aluxey/E-Commerce) | Full-stack shop with live analytics dashboards | ![React](https://img.shields.io/badge/React-20232A?logo=react) ![Node](https://img.shields.io/badge/Node-339933?logo=node.js) | 🔗 [Demo]() |
-| [**Portfolio**](https://github.com/aluxey/Portfolio-AurelienLUXEY) | Personal site with Tailwind & Netlify deploy | ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css) | 🔗 [Live](https://aurelien-luxey.netlify.app/) |
-
-📌 More projects on [my repositories](https://github.com/aluxey?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluxey&theme=tokyonight" height="180"/>
-</p>
-
-📂 Recent Activity
-
-<!-- GITHUB ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aluxey&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:aurelien.luxeyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aurelien-luxey-018841250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aurelien-luxey.netlify.app/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
